@@ -1,0 +1,21 @@
+.bg-img1{
+    background-color: #000;
+    background-size: cover;
+    background-image: url(sunlight-mountains-night-lake-reflection-sky-114187-wallhere.com.jpg);
+    width: 100%;
+    height: 550px;
+}
+.bg-img2{
+    background-color: #000;
+    background-size: cover;
+    background-image: url(Hinh-anh-trang-mau-dep.jpg);
+    width: 100%;
+    height: 550px;
+}
+.bg-img3{
+    background-color: #000;
+    background-size: cover;
+    background-image: url(pngtree-moon-and-mountains-of-3d-illustration-picture-image_2691591.jpg);
+    width: 100%;
+    height: 550px;
+}
